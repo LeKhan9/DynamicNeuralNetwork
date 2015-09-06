@@ -10,11 +10,11 @@
 	     * 				3) # of nodes in first hidden layer
 	     * 				4) # of nodes in second hidden layer
 	     *        5) # of nodes in the output layer
-	     *        6) (implicit) changing of learning rate
-	     *              	in Perceptron class
-	     *        7) # of cycles/epochs to run training for
-	     *              
-	     *  --> To test, changefilename below w/correct file path
+	     *        6) (implicit) changing of learning rate in Perceptron class 
+	     
+		along with choosing # of cycles/epochs to run training for
+	     
+	       --> To test, changefilename below w/correct file path
 	     
 	     -----------------------------------------------------*/
 	     
